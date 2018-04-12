@@ -1,0 +1,56 @@
+body{
+	background-color: green;
+}
+
+#Header{
+	width: 500px;
+	margin-left: auto;	
+	margin-right: auto;
+	margin-bottom: 10px;
+	text-align: center;
+	background-color: #8339CF;
+	color: #FFBC00;
+	font-family: "Times New Roman";
+}
+
+h3{
+	color: #FFBC00;
+	font-size: 40px;
+	font-family: "Times New Roman";
+	margin-bottom: 0px;
+}
+
+p {
+	color: white;
+	font-family: "Times New Roman";
+	font-weight: bold;
+}
+
+#LeftNav {
+	float: left;
+	width: 250px;
+	border: solid 8px white;
+	text-align :center;
+	background-color: #8339CF;
+}
+
+#LeftNav ul {
+	list-style-type: none;
+}
+
+#Content {
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	border: solid 8px white;
+	text-align :center;
+	background-color: #8339CF;
+	padding: 15px;
+}
+
+#bow {
+	color: #FFBC00;
+	font-weight: bold;
+	font-size: 20px;
+}
